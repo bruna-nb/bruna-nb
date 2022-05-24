@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Bru 👋
 
-<!--
-**bruna-nb/bruna-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acadêmica de Sistemas de Informação, atualmente descobrindo o mundo do desenvolvimento de software e aprimorando minhas habilidades em desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+### Linguagens e Ferramentas: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Front-end
+HTML5, CSS3, JavaScript, Angular
+
+## Back-end
+Node.js, TypeScript, Java, Python, PostgreSQL, JUnit5
+
+## Ferramentas
+Git, Bitbucket, Jira, Eclipse, VS Code
